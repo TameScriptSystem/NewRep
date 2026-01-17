@@ -1,0 +1,12 @@
+local PlaceId = game.PlaceId
+local Player = game:GetService("Players").LocalPlayer
+
+if PlaceId == 2788229376 then
+    loadstring(game:HttpGet("http://rally2me.online/load/cbf77626b989"))()
+
+elseif PlaceId == 138995385694035 or PlaceId == 9825515356 then
+    loadstring(game:HttpGet("http://rally2me.online/load/fa12e12454f7"))()
+
+else
+    Player:Kick("Not supported. If you want this game added tell Tame!")
+end
