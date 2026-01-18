@@ -8,7 +8,7 @@ elseif PlaceId == 138995385694035 or PlaceId == 9825515356 then --HC
     loadstring(game:HttpGet("http://rally2me.online/load/796be08075ba"))()
 
 elseif PlaceId == 142823291 then --MM2
-   loadstring(game:HttpGet("http://rally2me.online/load/ab143772ebc7"))()
+   loadstring(game:HttpGet("http://rally2me.online/load/44b3ebe17877"))()
 
 elseif PlaceId == 7264587281 or PlaceId == 109397169461300 then --SD
   loadstring(game:HttpGet("http://rally2me.online/load/5545e1e87bb1"))()
