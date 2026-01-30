@@ -2,16 +2,16 @@ local PlaceId = game.PlaceId
 local Player = game:GetService("Players").LocalPlayer
 
 if PlaceId == 2788229376 or PlaceId == 1008451066  then --DH
-  loadstring(game:HttpGet("http://rally2me.online/load/2dfd31d3aa16"))()
+  loadstring(game:HttpGet("http://rally2me.lol/load/2dfd31d3aa16"))()
 
 elseif PlaceId == 138995385694035 or PlaceId == 9825515356 then --HC
-    loadstring(game:HttpGet("http://rally2me.online/load/796be08075ba"))()
+   loadstring(game:HttpGet("http://rally2me.lol/load/2374d692748d"))()
 
 elseif PlaceId == 142823291 then --MM2
-   loadstring(game:HttpGet("http://rally2me.online/load/44b3ebe17877"))()
+  loadstring(game:HttpGet("http://rally2me.lol/load/a63e79d49746"))()
 
 elseif PlaceId == 7264587281 or PlaceId == 109397169461300 then --SD
-  loadstring(game:HttpGet("http://rally2me.online/load/5545e1e87bb1"))()
+  loadstring(game:HttpGet("http://rally2me.lol/load/55ac0fd106a2"))()
 
 else
     Player:Kick("Not supported. If you want this game added tell Tame!")
